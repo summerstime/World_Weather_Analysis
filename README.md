@@ -18,7 +18,7 @@ An API key was used when accessing the OpenWeatherMap.org to access the weather 
 JSON data was reviewed to pull particular information from the data and a data frame was created. 
 A total of 697 cities were found in the weather data and used for this project.
 This dataframe was exported to a csv file named WeatherPy_Database.csv.
-![Weather Dataframe](https://github.com/summerstime/School_District_Analysis/blob/main/Resources/District_Summary_1st.png) 
+![Weather Dataframe](https://github.com/summerstime/World_Weather_Analysis/blob/main/Weather_Database/DF_Weather.png) 
 
 ### Vacation Search
 In Vacation_Search, WeatherPy_Database.csv was read in so that it could be used.
@@ -27,19 +27,19 @@ Those values were then used to reduce the size of the dataframe to only those ci
 A total of 127 cities were found to fit the min/max temperatures. Hotels were also found for each of the cities.
 Information was gathered using an API key and Google Map API information.
 The information was exported to an output file called WeatherPy_Vacation.csv
-![Weather Dataframe](https://github.com/summerstime/School_District_Analysis/blob/main/Resources/District_Summary_1st.png) 
+![Vacation Search](https://github.com/summerstime/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png) 
 
 ### Vacation Itinerary
 In Vacation_Itinerary, WeatherPy_Vacation.csv was imported. 
 Four input questions were asked of the user to know the 4 cities that would be visited.
 Those answers' latitude and longitude were gathered. The tuple function and to_numpy() was used to pair up each coordinate pair.
 The Google Direction API was utilized to determine the route to visit the 4 cities chosen.
-![Weather Dataframe](https://github.com/summerstime/School_District_Analysis/blob/main/Resources/District_Summary_1st.png) 
+![City Map Information](https://github.com/summerstime/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png) 
 Itinerary list 
-![Weather Dataframe](https://github.com/summerstime/School_District_Analysis/blob/main/Resources/District_Summary_1st.png) 
+![Itinerary List](https://github.com/summerstime/World_Weather_Analysis/blob/main/Vacation_Itinerary/Itinerary_list.png) 
 
 
 ## Summary
 The final map show the 4 cities that user wants to visit. The information about the city is shown on the info card that pops up when the marker is chosen.
-![Weather Dataframe](https://github.com/summerstime/School_District_Analysis/blob/main/Resources/District_Summary_1st.png)
+![Final Map](https://github.com/summerstime/World_Weather_Analysis/blob/main/Vacation_Itinerary/Final_map.png) 
   
