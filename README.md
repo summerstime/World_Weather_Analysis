@@ -1,5 +1,5 @@
 # Vacation Itinerary
-Module 5 Project
+Module 6 Project
 
 ## Overview
 
@@ -36,7 +36,7 @@ Those answers' latitude and longitude were gathered. The tuple function and to_n
 The Google Direction API was utilized to determine the route to visit the 4 cities chosen.
 ![City Map Information](https://github.com/summerstime/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png) 
 Direction Map
-![Itinerary List](https://github.com/summerstime/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png) 
+![Direction Map](https://github.com/summerstime/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPY_travel_map.png) 
 Itinerary List 
 ![Itinerary List](https://github.com/summerstime/World_Weather_Analysis/blob/main/Vacation_Itinerary/Itinerary_list.png) 
 
