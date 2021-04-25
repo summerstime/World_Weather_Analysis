@@ -3,7 +3,7 @@ Module 6 Project
 
 ## Overview
 
-This project is to satisfy the requirements for the fifth module challenge in the Data Analysis Bootcamp. We are working with APIs. 
+This project is to satisfy the requirements for the sixth module challenge in the Data Analysis Bootcamp. We are working with APIs. 
 In this project we are asked to create a vacation itinerary based on the user's desired minimum and maximum temperatures.
 A list of cities is generated and displayed on a map. The user is asked to enter the 4 cities they would like to visit.
 A map of a directions is displayed through the cities, based on the order they were entered.
